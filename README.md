@@ -13,13 +13,9 @@ a Berlin-based Web Developer with a background in logistics.
 Enthusiast of the best web development technologies 🚀 and passionate to build great
 visually and interactive interfaces 🖥 focused on performance and user experiences.
 
-Let's connect 💬 I’m always interested in meeting people, sharing knowledge and discovering
-new challenging opportunities:
-
+Let's connect 💬 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-steinmetz/)
 &nbsp;
-![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)
-
 
 ![Codewars](https://www.codewars.com/users/olesyaste/badges/large)
 
