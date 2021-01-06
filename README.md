@@ -10,8 +10,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
 a Berlin-based Web Developer with a background in logistics.
-Enthusiast of the best web development technologies 🚀 and passionate to build great
-visually and interactive interfaces 🖥 focused on performance and user experiences.
 
 Let's connect 💬 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-steinmetz/)
@@ -24,4 +22,4 @@ Let's connect 💬
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olesyaste&layout=compact)](https://github.com/olesyaste/github-readme-stats)
 
 
-### ▽ Check out some of my projects below ▽
+### ▽ Check out some of my projects ▽
